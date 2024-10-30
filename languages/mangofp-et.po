@@ -1,0 +1,255 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the mangofp package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mangofp 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-29 17:46+0200\n"
+"PO-Revision-Date: 2021-01-29 16:05+0000\n"
+"Last-Translator: \n"
+"Language-Team: Eesti\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.6"
+
+#: mangofp.php:85 stage/mangofp.php:85
+msgid "MangoFP Contacts"
+msgstr "MangoFP Kontaktid"
+
+#: mangofp.php:93 stage/mangofp.php:93
+msgid "MangoFp Contacts"
+msgstr "MangoFp Kontaktid"
+
+#: mangofp.php:94 stage/mangofp.php:94
+msgid "Contacts"
+msgstr "Kontaktid"
+
+#: mangofp.php:101 stage/mangofp.php:101
+msgid "MangoFp Settings"
+msgstr "MangoFp Seaded"
+
+#: mangofp.php:102 stage/mangofp.php:102
+msgid "Settings"
+msgstr "Seaded"
+
+#: mangofp.php:117 stage/mangofp.php:117
+msgid ""
+"Mango Form Processor works only when Contact Form 7 is installed and "
+"activated."
+msgstr "Mango Form Processor töötab ainult koos pluginaga Contact Form 7"
+
+#: node_modules/grunt-pot/test/fixtures/some-file.php:3
+msgid "I'm a translatable string."
+msgstr "tõlgitav tekst - ignoreeri"
+
+#: node_modules/grunt-pot/test/fixtures/some-other-file.php:4
+msgid "Me too"
+msgstr "Mina kah"
+
+#: node_modules/grunt-pot/test/fixtures/some-other-file.php:7
+#, php-format
+msgid "I have %d apple"
+msgid_plural "I have %d apples"
+msgstr[0] "on õun"
+msgstr[1] "on õunu"
+
+#. TRANSLATORS: This should be translated as a shorthand for YEAR-MONTH-DAY using 4, 2 and 2 digits.
+#: node_modules/grunt-pot/test/fixtures/some-other-file.php:16
+msgid "yyyy-mm-dd"
+msgstr "dd-mm-yyyy"
+
+#: src/Adapters/Localization.php:7 stage/src/Adapters/Localization.php:7
+msgid "Send"
+msgstr "Saada"
+
+#: src/Adapters/Localization.php:8 stage/src/Adapters/Localization.php:8
+msgid "State"
+msgstr "Olek"
+
+#: src/Adapters/Localization.php:9 stage/src/Adapters/Localization.php:9
+msgid "All"
+msgstr "Kõik"
+
+#: src/Adapters/Localization.php:10 src/Adapters/Localization.php:26
+#: stage/src/Adapters/Localization.php:10
+#: stage/src/Adapters/Localization.php:26
+msgid "Confirm"
+msgstr "Kinnita"
+
+#: src/Adapters/Localization.php:11 src/Adapters/Localization.php:27
+#: stage/src/Adapters/Localization.php:11
+#: stage/src/Adapters/Localization.php:27
+msgid "Confirm and send"
+msgstr "Kinnita ja saada"
+
+#: src/Adapters/Localization.php:12 stage/src/Adapters/Localization.php:12
+msgid "Date"
+msgstr "Kuupäev"
+
+#: src/Adapters/Localization.php:13 stage/src/Adapters/Localization.php:13
+msgid "Status"
+msgstr "Olek"
+
+#: src/Adapters/Localization.php:14 stage/src/Adapters/Localization.php:14
+msgid "Label"
+msgstr "Teema"
+
+#: src/Adapters/Localization.php:15 stage/src/Adapters/Localization.php:15
+msgid "Note"
+msgstr "Märkus"
+
+#: src/Adapters/Localization.php:16 stage/src/Adapters/Localization.php:16
+msgid "Name"
+msgstr "Nimi"
+
+#: src/Adapters/Localization.php:17 stage/src/Adapters/Localization.php:17
+msgid "Email"
+msgstr "Email"
+
+#: src/Adapters/Localization.php:18 stage/src/Adapters/Localization.php:18
+msgid "Updated"
+msgstr "Muudetud"
+
+#: src/Adapters/Localization.php:19 stage/src/Adapters/Localization.php:19
+msgid "Change"
+msgstr "Muuda"
+
+#: src/Adapters/Localization.php:20 stage/src/Adapters/Localization.php:20
+msgid "Subject"
+msgstr "Teema"
+
+#: src/Adapters/Localization.php:28 stage/src/Adapters/Localization.php:28
+msgid "MangoFp settings"
+msgstr "MangoFp seaded"
+
+#: src/Adapters/Localization.php:29 stage/src/Adapters/Localization.php:29
+msgid "Process"
+msgstr "Protsess"
+
+#: src/Adapters/Localization.php:30 stage/src/Adapters/Localization.php:30
+msgid "Parameters"
+msgstr "Parameetrid"
+
+#: src/Entities/Option.php:28 stage/src/Entities/Option.php:28
+msgid "name of the page where submitted form is located"
+msgstr ""
+
+#: src/Entities/Option.php:29 stage/src/Entities/Option.php:29
+msgid "id of the page where submitted form is located"
+msgstr ""
+
+#: src/Entities/Option.php:30 stage/src/Entities/Option.php:30
+msgid "name of the submitted form"
+msgstr "saadetud kontaktivormi nimetus"
+
+#: src/Entities/Option.php:31 stage/src/Entities/Option.php:31
+msgid "id of the submitted form"
+msgstr "kontaktivormi id"
+
+#: src/Entities/Option.php:35 stage/src/Entities/Option.php:35
+msgid ""
+"Name of the Contact Form field that will be used as label for contact "
+"records in Mango Contacts."
+msgstr ""
+
+#: src/Entities/Option.php:36 stage/src/Entities/Option.php:36
+msgid "Use form field name or following shortcodes for dynamic values:"
+msgstr ""
+
+#: src/Entities/Option.php:44 stage/src/Entities/Option.php:44
+msgid "Email field"
+msgstr "Email"
+
+#: src/Entities/Option.php:46 stage/src/Entities/Option.php:46
+msgid ""
+"Name of the Email field on Contact Form(s) that will be used as contact's "
+"email for contact records in Mango Contacts. Default: email"
+msgstr ""
+
+#: src/Entities/Option.php:52 stage/src/Entities/Option.php:52
+msgid "Label field"
+msgstr ""
+
+#: src/Entities/Option.php:58 stage/src/Entities/Option.php:58
+msgid "Reply email"
+msgstr ""
+
+#: src/Entities/Option.php:60 stage/src/Entities/Option.php:60
+msgid ""
+"Email address for replies to emails sent from MangoFp. Premium emails add-on "
+"plugin enables receiving and management of replies directly in MangoFp"
+msgstr ""
+
+#: src/Entities/Option.php:66 stage/src/Entities/Option.php:66
+msgid "Reply email name"
+msgstr ""
+
+#: src/Entities/Option.php:68 stage/src/Entities/Option.php:68
+msgid "Email address's owners name for replies to emails sent from MangoFp."
+msgstr ""
+
+#: src/UseCases/SettingsUseCase.php:211
+#: stage/src/UseCases/SettingsUseCase.php:211
+msgid "Not allowed option: "
+msgstr ""
+
+#: src/UseCases/SettingsUseCase.php:226
+#: stage/src/UseCases/SettingsUseCase.php:226
+msgid "Failed to store option"
+msgstr ""
+
+#: src/UseCases/SettingsUseCase.php:229
+#: stage/src/UseCases/SettingsUseCase.php:229
+msgid "Setting saved"
+msgstr ""
+
+#: src/UseCases/SettingsUseCase.php:234
+#: stage/src/UseCases/SettingsUseCase.php:234
+msgid "No options in request"
+msgstr ""
+
+#: src/UseCases/SettingsUseCase.php:237
+#: stage/src/UseCases/SettingsUseCase.php:237
+msgid "Options should be array"
+msgstr ""
+
+#: src/UseCases/SettingsUseCase.php:245
+#: stage/src/UseCases/SettingsUseCase.php:245
+msgid "Option without a key in request"
+msgstr ""
+
+#: src/UseCases/SettingsUseCase.php:252
+#: stage/src/UseCases/SettingsUseCase.php:252
+msgid "Option without a value in request"
+msgstr ""
+
+#: src/UseCases/SettingsUseCase.php:259
+#: stage/src/UseCases/SettingsUseCase.php:259
+#, php-format
+msgid "Not valid option: %s"
+msgstr ""
+
+#: src/UseCases/SettingsUseCase.php:285
+#: stage/src/UseCases/SettingsUseCase.php:285
+#, php-format
+msgid "Failed to store option %s "
+msgstr ""
+
+#: src/UseCases/SettingsUseCase.php:294
+#: stage/src/UseCases/SettingsUseCase.php:294
+#, php-format
+msgid "%s is not valid option"
+msgstr ""
+
+#: src/UseCases/SettingsUseCase.php:374
+#: stage/src/UseCases/SettingsUseCase.php:374
+#, php-format
+msgid "Error while fetching options: %s"
+msgstr ""
